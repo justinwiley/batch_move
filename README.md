@@ -11,7 +11,7 @@ Drop batch_move.rb somewhere in your project, chmod +x to make it executable.
 ```bash
 $ ./batch_move.rb item product
 
-Batch renaming via git anything I find with 'item' to 'product
+Batch renaming via git anything I find with 'item' to 'product'
 
 Found 4 files
 
