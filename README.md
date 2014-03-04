@@ -25,6 +25,6 @@ Proceed? Y/n:
 
 Case sensitive Y will execute "git mv" to rename the files.  It will NOT commit the changes, leaving you a chance to reset.
 
-### No Warranties
+### Warning: Read the code
 
 The script is a quick hack, review the code to make sure you understand what it does before launching it.
